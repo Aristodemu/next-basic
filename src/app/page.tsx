@@ -66,10 +66,10 @@ export default function Home() {
   );
 }
 
-export async function generateMetadata(): Promise<Metadata> {
-  // const product = await fetch("");
-  return {
-    title: "product.title",
-    description: "...",
-  };
-}
+// export async function generateMetadata(): Promise<Metadata> {
+//   // const product = await fetch("");
+//   return {
+//     title: "product.title",
+//     description: "...",
+//   };
+// }
