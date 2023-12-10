@@ -60,8 +60,7 @@ export default function Home() {
         />
       </div>
 
-        <div></div>
-        <div></div>
+        <div>prisma</div>
     </main>
   );
 }
